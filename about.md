@@ -2,19 +2,17 @@
 layout: about
 path: /about
 url: index.html	
-image: https://raw.githubusercontent.com/hereissunyue/portfolio/gh-pages/public/images/IMAG0555.jpg
+image: https://github.com/hereissunyue/portfolio/blob/gh-pages/public/images/Capture.GIF?raw=true
 ---
 
-## Overview
-Lorem ipsum dolor sit amet, purto tota in vel, exerci discere apeirian has in. Nec noster iracundia eu, utroque facilis ad has. Alii argumentum no his, omnis iusto scripta vim in, ipsum ridens mel at. Has homero phaedrum no, ea autem affert facilis usu, has possim meliore perpetua id. Errem iisque mea ex, option ocurreret no est. Sea facer ullamcorper ne, cu dictas discere repudiandae sea.
 
-His nemore audiam consequat ad, no augue choro assueverit mei. Zril offendit tincidunt ne quo. At commodo integre alienum sea, cu vocent fuisset suscipit nam. Eum ex tation omnesque adversarium, mutat autem putant te nam. Id vix facilis complectitur, vis vitae vivendo euripidis ea, fugit eirmod an vix.
 
-Ad case nemore equidem mea. Duo te iuvaret appetere appellantur, sint scaevola usu cu. Eum ne aeque ridens prompta. At legendos vulputate eos, pro illum iuvaret cu, ludus vituperata usu no.
 
-Mel magna discere in. Mea ea dicit homero perfecto. Eam nulla facete scribentur in. Vide volutpat laboramus est cu, usu cu impetus dignissim. Ex pro decore impetus. Ius nihil iisque deterruisset an, ex sanctus verterem his. Doming prompta insolens est ut.
 
-### Research interests
-* Interest 1
-* Interest 2
-* Interest 3
+I am currently a Master of Science in Robotics student at Northwestern University.
+
+I chose Automation in Electrical Engineering as my undergraduate major directly resulted from the strong interest in Robotics and the information technology revolution, which really opened people's eyes into the limitless possibilities and led us to the commencement of the Information Age. With my passion for “machine of Artificial Intelligence”, I firmly believe the Age of Intelligence Technology is the future and will herald the next wave of technological innovation. I am eager to play a part in the coming challenges. It was a belief I set upon at the beginning of the college life, it is the belief that carried me through all the challenges and rewards, and it will be the one that propels me into the future in graduate school and a career brilliant engineer.
+
+I have fulfilled very diversy and versatile background in the filed of Electrical Engineering, Mechanical Engineering and Computer Science. I also have amassed significant experience in research. When working in the labs, I obtained adeptness related to not only on hardware and software but also quantitatively and qualitatively analysis methodology, from diverse sophisticated experiment devices, to various useful software.
+
+So far my research interests is focused on Robot Manipulation, Advanced Control System Design, Computer Vision, Artificial Intelligence and Machine Learning as well as Biomimetic Robot Design.
