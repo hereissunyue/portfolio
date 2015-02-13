@@ -2,7 +2,7 @@
 layout: about
 path: /about
 url: index.html	
-image: IMAG0555.jpg
+image: https://raw.githubusercontent.com/hereissunyue/portfolio/gh-pages/public/images/IMAG0555.jpg
 ---
 
 ## Overview
