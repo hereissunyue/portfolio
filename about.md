@@ -1,8 +1,8 @@
 ---
 layout: about
 path: /about
-url: index.html
-image: http://unsplash.it/400?random
+url: index.html	
+image: IMAG0555.jpg
 ---
 
 ## Overview
